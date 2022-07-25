@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "intepretable-ml",
+    "react": "intepretable-ml"
+  },
+  "targets": {},
+  "etags": {}
+}
